@@ -10,6 +10,7 @@ Description: This is not just a plugin, it symbolizes the hope and enthusiasm of
 Author: Matt Mullenweg
 Version: 1.6
 Author URI: http://ma.tt/
+Text Domain: hello-dolly
 */
 
 function hello_dolly_get_lyric() {
@@ -69,7 +70,7 @@ function dolly_css() {
 	#dolly {
 		float: $x;
 		padding-$x: 15px;
-		padding-top: 5px;		
+		padding-top: 5px;
 		margin: 0;
 		font-size: 11px;
 	}
