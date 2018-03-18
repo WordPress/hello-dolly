@@ -1,7 +1,7 @@
 === Hello Dolly ===
 Contributors: matt
 Stable tag: 1.6
-Tested up to: 4.7
+Tested up to: 4.9
 Requires at least: 4.6
 
 This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
